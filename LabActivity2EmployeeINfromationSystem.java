@@ -28,6 +28,8 @@ import java.util.Scanner;
         System.out.println("Age: " + age);
         System.out.println("Hours Worked: " + hours_worked);
         System.out.println("Salary Per Hour: " + salary_per_hour);
+        System.out.println("Monthly wage = Weekly wage * 4" );
+        System.out.println("Gross yearly wage = Monthly wage * 12 ");
         System.out.println("Total Salary Before Tax: " + totalSalary);
         System.out.println("Net Salary After Tax: " + netSalary);
 
